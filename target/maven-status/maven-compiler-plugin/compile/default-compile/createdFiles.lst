@@ -1,0 +1,4 @@
+br\com\hanieligor\alunocrud\service\AlunoService.class
+br\com\hanieligor\alunocrud\model\Aluno.class
+br\com\hanieligor\alunocrud\dao\AlunoDao.class
+br\com\hanieligor\alunocrud\model\Pessoa.class
